@@ -56,7 +56,7 @@ public class Main {
 
     
         if (board[aRow][aCol] != ' ') {
-            System.out.println(" → That spot's already taken; try again.");
+            System.out.println("That spot's already taken; try again.");
             continue;
         }
 
